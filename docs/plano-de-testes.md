@@ -20,10 +20,11 @@ Serão testadas as seguintes funcionalidades:
 Sistema web de reservas disponibilizado para o desafio.
 
 ## Tipos de teste
-- Testes funcionais e talvez testes automatizados
+- Testes funcionais
+- Testes automatizados
 
 ## Ferramentas utilizadas
-- GitHub
+- GitHub (versionamento)
 
 ## Abordagem
 - BDD (Behavior Driven Development)
@@ -35,3 +36,7 @@ Sistema web de reservas disponibilizado para o desafio.
 
 ## Framework de automação de testes
 - Cypress
+
+## IDE
+- Visual Studio Code
+
