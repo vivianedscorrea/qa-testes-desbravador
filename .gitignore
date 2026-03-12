@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Cypress (caso gere vídeos ou screenshots no futuro)
+cypress/videos/
+cypress/screenshots/
+
+# Environment files (se você criar algum .env)
+.env

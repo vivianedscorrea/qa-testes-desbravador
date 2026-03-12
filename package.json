@@ -1,0 +1,27 @@
+{
+  "name": "qa-testes-desbravador",
+  "version": "1.0.0",
+  "description": "Este repositório contém a documentação e os cenários de teste elaborados para validar o fluxo de reservas do sistema disponibilizado pela Desbravador.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianedscorrea/qa-testes-desbravador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianedscorrea/qa-testes-desbravador/issues"
+  },
+  "homepage": "https://github.com/vivianedscorrea/qa-testes-desbravador#readme",
+  "devDependencies": {
+    "cypress": "^15.11.0",
+    "typescript": "^5.9.3"
+  }
+}
