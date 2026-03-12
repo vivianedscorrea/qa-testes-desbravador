@@ -36,6 +36,7 @@ Foram elaborados cenários de teste baseados no fluxo principal do sistema, cons
 /docs → documentação dos testes  
 /evidencias → prints da execução dos testes  
 /cenarios → cenários escritos em BDD
+/cypress → testes automatizados
 
 ---
 
